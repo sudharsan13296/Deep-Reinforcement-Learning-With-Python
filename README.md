@@ -58,19 +58,19 @@ Download the detailed and complete table of contents from [here.](pdf/table%20of
 
 ## [1. Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
 
-* 1.1. [Key Elements of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.01.%20Key%20Elements%20of%20Reinforcement%20Learning%20.ipynb)
-* 1.2. Basic Idea of Reinforcement Learning
-* 1.3. Reinforcement Learning Algorithm
-* 1.4. RL Agent in the Grid World
-* 1.5. How RL differs from other ML paradigms?
-* 1.6. Markov Decision Processes
-* 1.7. Action Space, Policy, Episode and Horizon
-* 1.8. Return, Discount Factor and Math Essentials 
-* 1.9. Value Function and Q Function
-* 1.10. Model-Based and Model-Free Learning
-* 1.11. Different Types of Environments
-* 1.12. Applications of Reinforcement Learning
-* 1.13. Reinforcement Learning Glossary
+* [1.1. Key Elements of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.01.%20Key%20Elements%20of%20Reinforcement%20Learning%20.ipynb)
+* [1.2. Basic Idea of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.02.%20Basic%20Idea%20of%20Reinforcement%20Learning%20ipynb)
+* [1.3. Reinforcement Learning Algorithm](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.03.%20Reinforcement%20Learning%20Algorithm.ipynb)
+* [1.4. RL Agent in the Grid World](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.04.%20RL%20agent%20in%20the%20Grid%20World%20.ipynb)
+* [1.5. How RL differs from other ML paradigms?](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.04.%20RL%20agent%20in%20the%20Grid%20World%20.ipynb)
+* [1.6. Markov Decision Processes](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.05.%20How%20RL%20differs%20from%20other%20ML%20paradigms%3F.ipynb)
+* [1.7. Action Space, Policy, Episode and Horizon](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.07.%20Action%20space%2C%20Policy%2C%20Episode%20and%20Horizon.ipynb)
+* [1.8. Return, Discount Factor and Math Essentials](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.08.%20%20Return%2C%20Discount%20Factor%20and%20Math%20Essentials.ipynb)
+* [1.9. Value Function and Q Function](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.09%20Value%20function%20and%20Q%20function.ipynb)
+* [1.10. Model-Based and Model-Free Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.10.%20Model-Based%20and%20Model-Free%20Learning%20.ipynb)
+* [1.11. Different Types of Environments](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.11.%20Different%20Types%20of%20Environments.ipynb)
+* [1.12. Applications of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.12.%20Applications%20of%20Reinforcement%20Learning.ipynb)
+* [1.13. Reinforcement Learning Glossary](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.13.%20Reinforcement%20Learning%20Glossary.ipynb)
 
 
 ### [2. A Guide to the Gym Toolkit](02.%20A%20Guide%20to%20the%20Gym%20Toolkit)
