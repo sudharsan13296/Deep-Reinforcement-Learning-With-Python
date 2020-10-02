@@ -52,7 +52,9 @@ in research.
 <br>
 
 # Table of Contents
-Download the detailed and complete table of contents from [here.](table%20of%20contents/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran%20toc.pdf)
+Download the detailed and complete table of contents from [here.](pdf/table%20of%20contents.pdf)
+
+### Free download the chapter 1 [here.](pdf/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran.pdf)
 
 ## [1. Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
 
