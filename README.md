@@ -25,6 +25,31 @@ to leverage Stable Baselines, an improvement of OpenAI's baseline library, to
 implement popular RL algorithms effortlessly. The book concludes with an overview
 of promising approaches such as meta-learning and imagination augmented agents
 in research.
+## Get the book 
+<div>
+<a target="_blank" href="#">
+  <img src="./images/Oreilly_safari_logo.png" alt="Oreilly Safari" hieght=150, width=150>
+</a>
+  
+<a target="_blank" href="https://www.amazon.com/gp/product/B07LH43V8P?pf_rd_p=019ad97c-f176-43be-96b9-991a6dc65763&pf_rd_r=X02K63S0YE0Z2S67N8AF">
+  <img src="./images/amazon_logo.jpg" alt="Amazon" >
+</a>
+
+<a target="_blank" href="https://www.packtpub.com/product/deep-reinforcement-learning-with-python-second-edition/9781839210686">
+  <img src="./images/packt_logo.jpeg" alt="Packt" hieght=150, width=150 >
+</a>
+
+<a target="_blank" href="#">
+  <img src="./images/googlebooks_logo.png" alt="Google Books" 
+</a>
+
+<a target="_blank" href="#">
+  <img src="./images/googleplay_logo.png" alt="Google Play" >
+</a>
+<br>
+</div>
+
+<br>
 
 # Table of Contents
 Download the detailed and complete table of contents from [here.](table%20of%20contents/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran%20toc.pdf)
