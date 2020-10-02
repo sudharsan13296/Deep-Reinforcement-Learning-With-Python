@@ -4,7 +4,7 @@
 
 ## About the book
 <a target="_blank" href="https://www.amazon.com/dp/1839210680/ref=cm_sw_r_tw_dp_x_avRDFb99EVTQ">
-  <img src="./images/2.jpg" alt="Book Cover" width="250" align="left"/>
+  <img src="./images/2.jpg" alt="Book Cover" width="300" align="left"/>
  
 </a>With significant enhancement in the quality and quantity of algorithms in recent
 years, this second edition of Hands-On Reinforcement Learning with Python has been completely 
