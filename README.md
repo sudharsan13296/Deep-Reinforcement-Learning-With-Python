@@ -31,7 +31,7 @@ in research.
   <img src="./images/Oreilly_safari_logo.png" alt="Oreilly Safari" hieght=150, width=150>
 </a>
   
-<a target="_blank" href="https://www.amazon.com/gp/product/B07LH43V8P?pf_rd_p=019ad97c-f176-43be-96b9-991a6dc65763&pf_rd_r=X02K63S0YE0Z2S67N8AF">
+<a target="_blank" href="https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i2">
   <img src="./images/amazon_logo.jpg" alt="Amazon" >
 </a>
 
