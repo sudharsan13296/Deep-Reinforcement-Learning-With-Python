@@ -43,7 +43,7 @@ in research.
   <img src="./images/googlebooks_logo.png" alt="Google Books" 
 </a>
 
-<a target="_blank" href="#">
+<a target="_blank" href="https://play.google.com/store/books/details/Sudharsan_Ravichandiran_Deep_Reinforcement_Learnin?id=dFkAEAAAQBAJ">
   <img src="./images/googleplay_logo.png" alt="Google Play" >
 </a>
 <br>
