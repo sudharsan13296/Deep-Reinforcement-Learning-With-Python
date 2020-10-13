@@ -27,7 +27,7 @@ of promising approaches such as meta-learning and imagination augmented agents
 in research.
 ## Get the book 
 <div>
-<a target="_blank" href="#">
+<a target="_blank" href="https://www.oreilly.com/library/view/deep-reinforcement-learning/9781839210686/">
   <img src="./images/Oreilly_safari_logo.png" alt="Oreilly Safari" hieght=150, width=150>
 </a>
   
@@ -39,7 +39,7 @@ in research.
   <img src="./images/packt_logo.jpeg" alt="Packt" hieght=150, width=150 >
 </a>
 
-<a target="_blank" href="#">
+<a target="_blank" href="https://www.google.co.in/books/edition/Deep_Reinforcement_Learning_with_Python/dFkAEAAAQBAJ?hl=en&gbpv=0&kptab=overview">
   <img src="./images/googlebooks_logo.png" alt="Google Books" 
 </a>
 
