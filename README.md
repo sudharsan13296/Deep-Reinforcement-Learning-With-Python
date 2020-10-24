@@ -59,7 +59,7 @@ Download the detailed and complete table of contents from [here.](https://github
 ## [1. Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
 
 * [1.1. Key Elements of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.01.%20Key%20Elements%20of%20Reinforcement%20Learning%20.ipynb)
-* [1.2. Basic Idea of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.02.%20Basic%20Idea%20of%20Reinforcement%20Learning%20.ipynb)
+* [1.2. Basic Idea of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.02.%20Basic%20Idea%20of%20Reinforcement%20Learning.ipynb)
 * [1.3. Reinforcement Learning Algorithm](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.03.%20Reinforcement%20Learning%20Algorithm.ipynb)
 * [1.4. RL Agent in the Grid World](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.04.%20RL%20agent%20in%20the%20Grid%20World%20.ipynb)
 * [1.5. How RL differs from other ML paradigms?](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.05.%20How%20RL%20differs%20from%20other%20ML%20paradigms%3F.ipynb)
