@@ -54,8 +54,6 @@ in research.
 # Table of Contents
 Download the detailed and complete table of contents from [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python/raw/master/pdf/table%20of%20contents.pdf)
 
-### Free download the chapter 1 [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python/raw/master/pdf/Deep%20Reinforcement%20Learning%20With%20Python%20by%20Sudharsan%20Ravichandiran.pdf)
-
 ## [1. Fundamentals of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning)
 
 * [1.1. Key Elements of Reinforcement Learning](01.%20Fundamentals%20of%20Reinforcement%20Learning/1.01.%20Key%20Elements%20of%20Reinforcement%20Learning%20.ipynb)
@@ -101,8 +99,8 @@ Download the detailed and complete table of contents from [here.](https://github
 * 4.2. Prediction and Control Tasks
 * 4.3. Monte Carlo Prediction
 * 4.4. Understanding the BlackJack Game
-* [4.5. Every-visit MC Prediction with Blackjack Game](04.%20Monte%20Carlo%20Methods/4.05.%20Every-visit%20MC%20Prediction%20with%20Blackjack%20Game.ipynb)
-* [4.6. First-visit MC Prediction with Blackjack Game](04.%20Monte%20Carlo%20Methods/4.06.%20First-visit%20MC%20Prediction%20with%20Blackjack%20Game.ipynb)
+* 4.5. Every-visit MC Prediction with Blackjack Game
+* 4.6. First-visit MC Prediction with Blackjack Game
 * 4.7. Incremental Mean Updates
 * 4.8. MC Prediction (Q Function)
 * 4.9. Monte Carlo Control
