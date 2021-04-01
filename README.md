@@ -86,7 +86,7 @@ Download the detailed and complete table of contents from [here.](https://github
 * 2.10. Environment Synopsis
 
 ### [3. Bellman Equation and Dynamic Programming](03.%20Bellman%20Equation%20and%20Dynamic%20Programming)
-* [3.1. The Bellman Equation](03.%20Bellman%20Equation%20and%20Dynamic%20Programming/3.01.%20The%20Bellman%20Equation.ipynb)
+* 3.1. The Bellman Equation
 * 3.2. Bellman Optimality Equation
 * 3.3. Relation Between Value and Q Function
 * 3.4. Dynamic Programming
@@ -97,8 +97,8 @@ Download the detailed and complete table of contents from [here.](https://github
 * 3.9. Is DP Applicable to all Environments?
 
 ### [4. Monte Carlo Methods](04.%20Monte%20Carlo%20Methods)
-* [4.1. Understanding the Monte Carlo Method](04.%20Monte%20Carlo%20Methods/4.01.%20Understanding%20the%20Monte%20Carlo%20Method.ipynb)
-* [4.2. Prediction and Control Tasks](04.%20Monte%20Carlo%20Methods/4.02.%20%20Prediction%20and%20control%20tasks.ipynb)
+* 4.1. Understanding the Monte Carlo Method
+* 4.2. Prediction and Control Tasks
 * 4.3. Monte Carlo Prediction
 * 4.4. Understanding the BlackJack Game
 * [4.5. Every-visit MC Prediction with Blackjack Game](04.%20Monte%20Carlo%20Methods/4.05.%20Every-visit%20MC%20Prediction%20with%20Blackjack%20Game.ipynb)
@@ -115,7 +115,7 @@ Download the detailed and complete table of contents from [here.](https://github
 
 
 ### [5. Understanding Temporal Difference Learning](05.%20Understanding%20Temporal%20Difference%20Learning)
-* [5.1. TD Learning](05.%20Understanding%20Temporal%20Difference%20Learning/5.01.%20TD%20Learning.ipynb)
+* 5.1. TD Learning
 * 5.2. TD Prediction
 * [5.3. Predicting the Value of States in a Frozen Lake Environment](05.%20Understanding%20Temporal%20Difference%20Learning/5.03.%20Predicting%20the%20Value%20of%20States%20in%20a%20Frozen%20Lake%20Environment.ipynb)
 * 5.4. TD Control
@@ -170,7 +170,7 @@ Download the detailed and complete table of contents from [here.](https://github
 
 ### [9. Deep Q Network and its Variants](09.%20%20Deep%20Q%20Network%20and%20its%20Variants)
 
-* [9.1. What is Deep Q Network?](09.%20%20Deep%20Q%20Network%20and%20its%20Variants/9.01.%20What%20is%20Deep%20Q%20Network%3F.ipynb)
+* 9.1. What is Deep Q Network?
 * 9.2. Understanding DQN
 * [9.3. Playing Atari Games using DQN](09.%20%20Deep%20Q%20Network%20and%20its%20Variants/9.03.%20Playing%20Atari%20Games%20using%20DQN.ipynb)
 * 9.4. Double DQN
@@ -179,8 +179,8 @@ Download the detailed and complete table of contents from [here.](https://github
 * 9.7. Deep Recurrent Q Network
 
 ### [10. Policy Gradient Method](10.%20Policy%20Gradient%20Method)
-* [10.1. Why Policy Based Methods?](10.%20Policy%20Gradient%20Method/10.01.%20Why%20Policy%20based%20Methods.ipynb)
-* [10.2. Policy Gradient Intuition](10.%20Policy%20Gradient%20Method/10.02.%20Policy%20Gradient%20Intuition.ipynb)
+* 10.1. Why Policy Based Methods?
+* 10.2. Policy Gradient Intuition
 * 10.3. Understanding the Policy Gradient
 * 10.4. Deriving Policy Gradien
 * 10.5. Variance Reduction Methods
@@ -190,7 +190,7 @@ Download the detailed and complete table of contents from [here.](https://github
 
 
 ### [11. Actor Critic Methods - A2C and A3C](11.%20Actor%20Critic%20Methods%20-%20A2C%20and%20A3C)
-* [11.1. Overview of Actor Critic Method](11.%20Actor%20Critic%20Methods%20-%20A2C%20and%20A3C/11.01.%20Overview%20of%20actor%20critic%20method.ipynb)
+* 11.1. Overview of Actor Critic Method
 * 11.2. Understanding the Actor Critic Method
 * 11.3. Advantage Actor Critic
 * 11.4. Asynchronous Advantage Actor Critic
@@ -198,7 +198,7 @@ Download the detailed and complete table of contents from [here.](https://github
 * 11.6. A2C Revisited
 
 ### [12. Learning DDPG, TD3 and SAC](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC)
-* [12.1. Deep Deterministic Policy Gradient](12.%20Learning%20DDPG%2C%20TD3%20and%20SAC/12.01.%20DDPG.ipynb)
+* 12.1. Deep Deterministic Policy Gradient
 * 12.2. Components of DDPG
 * 12.3. Putting it all together
 * 12.4. Algorithm - DDPG
@@ -213,7 +213,7 @@ Download the detailed and complete table of contents from [here.](https://github
 * 12.13. Algorithm - SAC
 
 ### [13. TRPO, PPO and ACKTR Methods](13.%20TRPO%2C%20PPO%20and%20ACKTR%20Methods)
-* [13.1 Trust Region Policy Optimization](13.%20TRPO%2C%20PPO%20and%20ACKTR%20Methods/13.09.%20Implementing%20PPO-Clipped%20Method.ipynb)
+* 13.1 Trust Region Policy Optimization
 * 13.2. Math Essentials
 * 13.3. Designing the TRPO Objective Function
 * 13.4. Solving the TRPO Objective Function
@@ -237,8 +237,8 @@ Download the detailed and complete table of contents from [here.](https://github
 * 14.7. Distributed Distributional DDPG
 
 ### [15. Imitation Learning and Inverse RL](15.%20Imitation%20Learning%20and%20Inverse%20RL)
-* [15.1. Supervised Imitation Learning](15.%20Imitation%20Learning%20and%20Inverse%20RL/15.01.%20Supervised%20Imitation%20Learning%20.ipynb)
-* [15.2. DAgger](15.%20Imitation%20Learning%20and%20Inverse%20RL/15.02.%20DAgger.ipynb)
+* 15.1. Supervised Imitation Learning
+* 15.2. DAgger
 * 15.3. Deep Q learning from Demonstrations
 * 15.4. Inverse Reinforcement Learning
 * 15.5. Maximum Entropy IRL
@@ -260,7 +260,7 @@ Download the detailed and complete table of contents from [here.](https://github
 
 
 ### [17. Reinforcement Learning Frontiers](17.%20Reinforcement%20Learning%20Frontiers)
-* [17.1. Meta Reinforcement Learning](17.%20Reinforcement%20Learning%20Frontiers/17.01.%20Meta%20Reinforcement%20Learning.ipynb)
+* 17.1. Meta Reinforcement Learning
 * 17.2. Model Agnostic Meta Learning
 * 17.3. Understanding MAML
 * 17.4. MAML in the Supervised Learning Setting
