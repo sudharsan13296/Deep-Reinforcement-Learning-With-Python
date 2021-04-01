@@ -75,7 +75,7 @@ Download the detailed and complete table of contents from [here.](https://github
 * 2.1. Setting Up our Machine
 * [2.2. Creating our First Gym Environment](02.%20A%20Guide%20to%20the%20Gym%20Toolkit/2.02.%20%20Creating%20our%20First%20Gym%20Environment.ipynb)
 * 2.3. Generating an episode
-* [2.4. Classic Control Environments](02.%20A%20Guide%20to%20the%20Gym%20Toolkit/2.04.%20Classic%20Control%20Environments.ipynb)
+* 2.4. Classic Control Environments
 * [2.5. Cart Pole Balancing with Random Policy](02.%20A%20Guide%20to%20the%20Gym%20Toolkit/2.05.%20Cart%20Pole%20Balancing%20with%20Random%20Policy.ipynb)
 * 2.6. Atari Game Environments
 * 2.7. Agent Playing the Tennis Game
